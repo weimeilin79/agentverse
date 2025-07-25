@@ -1,0 +1,4 @@
+mcp
+sse-starlette
+starlette
+google-adk
