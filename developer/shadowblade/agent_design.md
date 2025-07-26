@@ -37,7 +37,7 @@ The script must import the following modules:
 
 - The `LlmAgent` instance must be configured with the following exact specifications:
 
-  - `model`: `"gemini-1.5-pro-latest"`
+  - `model`: `"gemini-2.5-flash"`
   - `name`: `"shadowblade_combat_agent"`
   - `instruction`: The instruction prompt must be a multi-line string with the following exact content:
 
